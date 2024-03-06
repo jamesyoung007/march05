@@ -12,21 +12,20 @@
       "value": []
     },
     "parPlatformMgSubs": {
-      "value": []
+      "value": [
+        "3956f25a-4e0a-41ab-9265-402114f992d6"
+      ]
     },
     "parPlatformManagementMgSubs": {
       "value": [
-        "3956f25a-4e0a-41ab-9265-402114f992d6"
       ]
     },
     "parPlatformConnectivityMgSubs": {
       "value": [
-        "3956f25a-4e0a-41ab-9265-402114f992d6"
       ]
     },
     "parPlatformIdentityMgSubs": {
       "value": [
-        "3956f25a-4e0a-41ab-9265-402114f992d6"
       ]
     },
     "parLandingZonesMgSubs": {
