@@ -16,7 +16,7 @@
       }
     },
     "parPlatformMgAlzDefaultsEnable": {
-      "value": true
+      "value": false
     },
     "parLandingZoneChildrenMgAlzDefaultsEnable": {
       "value": true
